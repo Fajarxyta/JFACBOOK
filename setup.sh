@@ -11,7 +11,6 @@ else
 fi
 
 echo "Memperbarui pip ke versi terbaru..."
-pip install --upgrade pip
 
 packages=(
     pycryptodome
